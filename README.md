@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @LeticiaMile
 - 👀 I’m interested in Front-end and full stack.
 - 🌱 I’m currently learning C# and C.
+- 🧑‍🎓 I'm studying information technology - 2nd period.
 
 <!---
 LeticiaMile/LeticiaMile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
