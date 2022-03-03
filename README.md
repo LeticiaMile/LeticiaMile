@@ -1,6 +1,6 @@
 #                                                           A wanna be full Stack Developer from Brazil.
 - 👋 Hi, I’m @LeticiaMile
-- 👀 I’m interested in Front-end and full stack.
+- 👀 I’m interested in  Back-end e Fullstack.
 - 🌱 I’m currently learning C# and C.
 - 🧑‍🎓 I'm studying information technology - 2nd period.
 
