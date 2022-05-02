@@ -1,8 +1,7 @@
 ## Olá eu sou a Leticia Milena
 
 - 👋 Hi, I’m @LeticiaMile
-- 👀 I’m interested in Full stack.
-- 🌱 I’m studying information technology - 3 period.
+- 👀 I’m interested in Full stack..
 - 💌 Contact me by email: leticia14_milena@hotmail.com
 - 🧑‍🎓 I'm studying information technology - 3nd period.
 
