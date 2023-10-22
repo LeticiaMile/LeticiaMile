@@ -1,4 +1,4 @@
-## Olá eu sou a Leticia Milena
+## Hello Guys, I'm Leticia Milena.
 
 - 👋 Hi, I’m @LeticiaMile
 - 👀 I’m interested in Full stack.
